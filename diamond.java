@@ -36,6 +36,7 @@ class diamond
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	    int n;
+            System.out.print("Enter a value :");
 	    BufferedReader br=new BufferedReader( new InputStreamReader(System.in));
 	    n=Integer.parseInt(br.readLine());
 		draw_diamond(n);
