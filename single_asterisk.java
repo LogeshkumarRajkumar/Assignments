@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class single_asterisks
+class single_asterisk
 {
     public static void print_one_asterisk()
     {
